@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: toDo
+      host: localhost
+ 
+server:
+  context-path: /toDo
+  port: 9090
+ 
